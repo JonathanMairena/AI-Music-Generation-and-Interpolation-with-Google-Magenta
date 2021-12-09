@@ -10,4 +10,8 @@ For this project, we explored the idea of AI generated music using two models, M
 
 **MusicVAE Interpolate 2bar:** Google Colab notebook containing code related to training and outputting results of the MusicVAE model for interpolating 2 bars of music
 
-**Link to Medium article:** https://medium.com/@jmairena/ai-music-generation-and-interpolation-9f49e50722ec
+**Medium article:** https://medium.com/@jmairena/ai-music-generation-and-interpolation-9f49e50722ec
+
+**Full Set of Melody RNN Results:** https://soundcloud.com/sravya-alla/sets/melody-rnn-results?si=dcf29e0581fe426fa8cc2aba879f9d63&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
+
+**Full Set of MusicVAE Interpolation Results:** https://soundcloud.com/sravya-alla/sets/musicvae-interpolation?si=e71793eaa1564ebbb96a52d8cb5db7e3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing
