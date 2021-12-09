@@ -9,3 +9,5 @@ For this project, we explored the idea of AI generated music using two models, M
 **Melody RNN 20k:** Google Colab notebook containing code related to training and outputting results of the Melody RNN model of 20,000 steps
 
 **MusicVAE Interpolate 2bar:** Google Colab notebook containing code related to training and outputting results of the MusicVAE model for interpolating 2 bars of music
+
+**Link to Medium article:** https://medium.com/@jmairena/ai-music-generation-and-interpolation-9f49e50722ec
